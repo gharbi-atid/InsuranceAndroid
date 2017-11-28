@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.moez.insuranceandroid">
 
+
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -21,6 +23,9 @@
         <activity
             android:name=".AjoutReclamationActivity"
             android:label="@string/add_reclamation" />
+
+        <meta-data android:name="com.pushwoosh.appid" android:value="F7900-CAE99" />
+        <meta-data android:name="com.pushwoosh.senderid" android:value="@string/fcm_sender_id" />
     </application>
 
 </manifest>

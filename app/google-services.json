@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "842416803180",
+    "firebase_url": "https://insuranceandroid-b068d.firebaseio.com",
+    "project_id": "insuranceandroid-b068d",
+    "storage_bucket": "insuranceandroid-b068d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842416803180:android:d95cc9ccff17bf95",
+        "android_client_info": {
+          "package_name": "com.example.moez.insuranceandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842416803180-65aujcddgue1qes32b60v9mt04825181.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moez.insuranceandroid",
+            "certificate_hash": "98f5e84e7cce2efc8c986674dd6fbcc407c6f0d0"
+          }
+        },
+        {
+          "client_id": "842416803180-fgmg69e125b5d2r0ph68t5k0tlgc9iqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECu1s5OKcDLAkZv514dh5MxiVT8acYt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842416803180-fgmg69e125b5d2r0ph68t5k0tlgc9iqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
