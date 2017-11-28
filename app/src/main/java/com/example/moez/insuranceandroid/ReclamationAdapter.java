@@ -51,7 +51,8 @@ public class ReclamationAdapter extends ArrayAdapter<Reclamation> {
             TextView description = v.findViewById(R.id.description);
             description.setText(c.getDescription());
 
-
+            TextView subject = v.findViewById(R.id.subject);
+            subject.setText(c.getSubject());
         }
 
 
